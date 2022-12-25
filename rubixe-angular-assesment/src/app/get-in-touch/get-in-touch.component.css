@@ -1,0 +1,51 @@
+.wrapper{
+    border: 1px solid gray;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 350px;
+    border-radius: 5px;
+    width: fit-content;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.align{
+    padding-right: 50px;
+}
+
+.text{
+    font-weight: 900;
+    text-align: center;
+}
+
+input[type]{
+    height: 30px;
+    width: 400px;
+    border-radius: 2px;
+    border: 1px solid grey;
+    margin-left: 40px;
+}
+
+label{
+    font-weight: bolder;
+    padding-left: 40px;
+}
+
+p{
+    text-align: center;
+}
+
+#btn{
+    background-color: rgb(19, 19, 67);
+    color: white;
+    border: none;
+    height: 30px;
+    width: 405px;
+    border-radius: 2px;
+}
+
+.vl {
+    border-left: 2px solid grey;
+    height: 150px;
+  }
